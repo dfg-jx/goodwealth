@@ -1,2 +1,1 @@
-# goodwealth
-goodwealth
+财富密码
